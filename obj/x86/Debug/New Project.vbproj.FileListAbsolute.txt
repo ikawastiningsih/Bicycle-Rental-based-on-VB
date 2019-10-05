@@ -1,0 +1,73 @@
+D:\Kampus\VB\New Project\New Project\bin\Debug\New Project.exe
+D:\Kampus\VB\New Project\New Project\bin\Debug\New Project.pdb
+D:\Kampus\VB\New Project\New Project\bin\Debug\New Project.xml
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\New Project.exe
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\New Project.xml
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\New Project.pdb
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\New Project\New Project\obj\x86\Debug\New Project.exe
+D:\New Project\New Project\obj\x86\Debug\New Project.xml
+D:\New Project\New Project\obj\x86\Debug\New Project.pdb
+D:\New Project\New Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.login.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalianm.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.pmotor.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.psepeda.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalian.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.Form7.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.stock.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.home.resources
+D:\New Project\New Project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\New Project\New Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New Project\New Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ika\New Project\New Project\obj\x86\Debug\New Project.exe
+D:\Ika\New Project\New Project\obj\x86\Debug\New Project.xml
+D:\Ika\New Project\New Project\obj\x86\Debug\New Project.pdb
+D:\Ika\New Project\New Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.login.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalianm.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.pmotor.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.psepeda.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalian.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.stock.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.home.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ika\New Project\New Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ika\New Project\New Project\bin\Debug\New Project.exe
+D:\Ika\New Project\New Project\bin\Debug\New Project.pdb
+D:\Ika\New Project\New Project\bin\Debug\New Project.xml
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.signup.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.stockm.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.rekapsepeda.resources
+D:\Ika\New Project\New Project\obj\x86\Debug\WindowsApplication1.rekapmotor.resources
+D:\Ika\New Project\New Project\bin\Debug\New Project.exe.manifest
+D:\Ika\New Project\New Project\bin\Debug\New Project.application
+D:\Ika\New Project\New Project\obj\x86\Debug\New Project.exe.manifest
+D:\Ika\New Project\New Project\obj\x86\Debug\New Project.application
+D:\Kampus\New Project\New Project\obj\x86\Debug\New Project.exe
+D:\Kampus\New Project\New Project\obj\x86\Debug\New Project.xml
+D:\Kampus\New Project\New Project\obj\x86\Debug\New Project.pdb
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.login.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalianm.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.pmotor.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.psepeda.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.pengembalian.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.rekapmotor.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.rekapsepeda.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.signup.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.stock.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.home.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\WindowsApplication1.stockm.resources
+D:\Kampus\New Project\New Project\obj\x86\Debug\New Project.vbproj.GenerateResource.Cache

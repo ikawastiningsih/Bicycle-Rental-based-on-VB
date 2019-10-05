@@ -1,0 +1,13 @@
+D:\Kampus\VB\New Project\New Project\bin\Release\New Project.exe
+D:\Kampus\VB\New Project\New Project\bin\Release\New Project.pdb
+D:\Kampus\VB\New Project\New Project\bin\Release\New Project.xml
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\WindowsApplication1.Form3.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\New Project.exe
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\New Project.xml
+D:\Kampus\VB\New Project\New Project\obj\x86\Release\New Project.pdb
